@@ -24,13 +24,13 @@ public class CadastroTeste {
         Scanner sc = new Scanner(System.in);
         int opcion;
         
-        System.out.println("Cadastrade o piloto informando o nome e CPF ");
+        System.out.println("Cadastre o piloto informando o nome e CPF ");
         cadastro.Cadastrar();
         
     
         do{
             
-        System.out.println("Caso queira localizar un piloto pelo CPF digite 1. Caso queira listar todos pilotos digite 2. Para finalizar digite 0");
+        System.out.println("Caso queira localizar um piloto pelo CPF digite 1. Caso queira listar todos pilotos digite 2. Para finalizar digite 0");
         opcion = sc.nextInt();
         
             switch(opcion){
