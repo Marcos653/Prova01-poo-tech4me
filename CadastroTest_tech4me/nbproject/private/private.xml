@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/CadastroTeste/src/cadastroteste/CadastroTeste.java</file>
-            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/CadastroTeste/src/modelo/Piloto.java</file>
-            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/CadastroTeste/src/modelo/ValidadoCPF.java</file>
-            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/CadastroTeste/src/modelo/Cadastro.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/modelo/Cadastro.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/modelo/Piloto.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/modelo/Pessoa.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/cadastroteste/CadastroTeste.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/exceptions/ValidadoCPF.java</file>
+            <file>file:/C:/Users/Marcos/Desktop/Git%20hub/Prova-tech4me/CadastroTeste/Prova01-poo-tech4me/CadastroTest_tech4me/src/modelo/Aeronaves.java</file>
         </group>
     </open-files>
 </project-private>

@@ -1,36 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package modelo;
 
 /**
  *
  * @author Marcos
  */
-public class Piloto {
-    private String nome;
-    private String cpf;
+public class Piloto extends Pessoa {
+    private char habilitacao;
 
-    
-    //metodos
-    public String getNome() {
-        return nome;
+    public char getHabilitacao() {
+        return habilitacao;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setHabilitacao(char habilitacao) {
+        this.habilitacao = habilitacao;
     }
-
-    public String getCpf() {
-        return cpf;
-    }
-
-    public void setCpf(String cpf) {
-        this.cpf = cpf;
-    }
-
     
     
 }
